@@ -1,0 +1,73 @@
+file_path,filename,crop,label,detection_type,image_type,width,height,status,split
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\chickpea_fusarium_wilt\specimen_001.jpg,specimen_001.jpg,Chickpea,Chickpea Fusarium Wilt,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\chickpea_fusarium_wilt\specimen_002.jpg,specimen_002.jpg,Chickpea,Chickpea Fusarium Wilt,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\chickpea_fusarium_wilt\specimen_011.jpg,specimen_011.jpg,Chickpea,Chickpea Fusarium Wilt,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_bacterial_blight\specimen_002.jpg,specimen_002.jpg,Cotton,Cotton Bacterial Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_bacterial_blight\specimen_012.jpg,specimen_012.jpg,Cotton,Cotton Bacterial Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_bacterial_blight\specimen_001.jpg,specimen_001.jpg,Cotton,Cotton Bacterial Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_healthy\specimen_010.jpg,specimen_010.jpg,Cotton,Cotton Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_healthy\specimen_008.jpg,specimen_008.jpg,Cotton,Cotton Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_healthy\specimen_004.jpg,specimen_004.jpg,Cotton,Cotton Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_pink_bollworm_damage\specimen_002.jpg,specimen_002.jpg,Cotton,Cotton Pink Bollworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_pink_bollworm_damage\specimen_006.jpg,specimen_006.jpg,Cotton,Cotton Pink Bollworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\cotton_pink_bollworm_damage\specimen_004.jpg,specimen_004.jpg,Cotton,Cotton Pink Bollworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_fall_armyworm_damage\specimen_007.jpg,specimen_007.jpg,Maize,Maize Fall Armyworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_fall_armyworm_damage\specimen_002.jpg,specimen_002.jpg,Maize,Maize Fall Armyworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_fall_armyworm_damage\specimen_009.jpg,specimen_009.jpg,Maize,Maize Fall Armyworm Damage,PEST,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_healthy\specimen_001.jpg,specimen_001.jpg,Maize,Maize Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_healthy\specimen_002.jpg,specimen_002.jpg,Maize,Maize Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_healthy\specimen_012.jpg,specimen_012.jpg,Maize,Maize Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_northern_leaf_blight\specimen_003.jpg,specimen_003.jpg,Maize,Maize Northern Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_northern_leaf_blight\specimen_006.jpg,specimen_006.jpg,Maize,Maize Northern Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\maize_northern_leaf_blight\specimen_011.jpg,specimen_011.jpg,Maize,Maize Northern Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\mustard_white_rust\specimen_003.jpg,specimen_003.jpg,Mustard,Mustard White Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\mustard_white_rust\specimen_004.jpg,specimen_004.jpg,Mustard,Mustard White Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\mustard_white_rust\specimen_009.jpg,specimen_009.jpg,Mustard,Mustard White Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_early_blight\specimen_012.jpg,specimen_012.jpg,Potato,Potato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_early_blight\specimen_004.jpg,specimen_004.jpg,Potato,Potato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_early_blight\specimen_001.jpg,specimen_001.jpg,Potato,Potato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_healthy\specimen_008.jpg,specimen_008.jpg,Potato,Potato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_healthy\specimen_011.jpg,specimen_011.jpg,Potato,Potato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_healthy\specimen_007.jpg,specimen_007.jpg,Potato,Potato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_late_blight\specimen_006.jpg,specimen_006.jpg,Potato,Potato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_late_blight\specimen_007.jpg,specimen_007.jpg,Potato,Potato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\potato_late_blight\specimen_010.jpg,specimen_010.jpg,Potato,Potato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_bacterial_leaf_blight\specimen_007.jpg,specimen_007.jpg,Rice,Rice Bacterial Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_bacterial_leaf_blight\specimen_003.jpg,specimen_003.jpg,Rice,Rice Bacterial Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_bacterial_leaf_blight\specimen_011.jpg,specimen_011.jpg,Rice,Rice Bacterial Leaf Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_blast\specimen_009.jpg,specimen_009.jpg,Rice,Rice Blast,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_blast\specimen_002.jpg,specimen_002.jpg,Rice,Rice Blast,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_blast\specimen_011.jpg,specimen_011.jpg,Rice,Rice Blast,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_healthy\specimen_009.jpg,specimen_009.jpg,Rice,Rice Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_healthy\specimen_005.jpg,specimen_005.jpg,Rice,Rice Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\rice_healthy\specimen_012.jpg,specimen_012.jpg,Rice,Rice Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_healthy\specimen_011.jpg,specimen_011.jpg,Soybean,Soybean Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_healthy\specimen_009.jpg,specimen_009.jpg,Soybean,Soybean Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_healthy\specimen_003.jpg,specimen_003.jpg,Soybean,Soybean Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_rust\specimen_010.jpg,specimen_010.jpg,Soybean,Soybean Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_rust\specimen_004.jpg,specimen_004.jpg,Soybean,Soybean Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_rust\specimen_001.jpg,specimen_001.jpg,Soybean,Soybean Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_yellow_mosaic\specimen_005.jpg,specimen_005.jpg,Soybean,Soybean Yellow Mosaic,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_yellow_mosaic\specimen_003.jpg,specimen_003.jpg,Soybean,Soybean Yellow Mosaic,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\soybean_yellow_mosaic\specimen_009.jpg,specimen_009.jpg,Soybean,Soybean Yellow Mosaic,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_early_blight\specimen_012.jpg,specimen_012.jpg,Tomato,Tomato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_early_blight\specimen_009.jpg,specimen_009.jpg,Tomato,Tomato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_early_blight\specimen_008.jpg,specimen_008.jpg,Tomato,Tomato Early Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_healthy\specimen_001.jpg,specimen_001.jpg,Tomato,Tomato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_healthy\specimen_004.jpg,specimen_004.jpg,Tomato,Tomato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_healthy\specimen_010.jpg,specimen_010.jpg,Tomato,Tomato Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_late_blight\specimen_008.jpg,specimen_008.jpg,Tomato,Tomato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_late_blight\specimen_011.jpg,specimen_011.jpg,Tomato,Tomato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_late_blight\specimen_005.jpg,specimen_005.jpg,Tomato,Tomato Late Blight,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_septoria_leaf_spot\specimen_002.jpg,specimen_002.jpg,Tomato,Tomato Septoria Leaf Spot,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_septoria_leaf_spot\specimen_004.jpg,specimen_004.jpg,Tomato,Tomato Septoria Leaf Spot,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\tomato_septoria_leaf_spot\specimen_007.jpg,specimen_007.jpg,Tomato,Tomato Septoria Leaf Spot,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_brown_rust\specimen_002.jpg,specimen_002.jpg,Wheat,Wheat Brown Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_brown_rust\specimen_012.jpg,specimen_012.jpg,Wheat,Wheat Brown Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_brown_rust\specimen_011.jpg,specimen_011.jpg,Wheat,Wheat Brown Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_healthy\specimen_003.jpg,specimen_003.jpg,Wheat,Wheat Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_healthy\specimen_008.jpg,specimen_008.jpg,Wheat,Wheat Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_healthy\specimen_009.jpg,specimen_009.jpg,Wheat,Wheat Healthy,HEALTHY,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_yellow_rust\specimen_009.jpg,specimen_009.jpg,Wheat,Wheat Yellow Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_yellow_rust\specimen_011.jpg,specimen_011.jpg,Wheat,Wheat Yellow Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test
+C:\Users\risha\.gemini\antigravity\scratch\crop-disease-platform\ml\data\raw\wheat_yellow_rust\specimen_001.jpg,specimen_001.jpg,Wheat,Wheat Yellow Rust,DISEASE,FIELD_IMAGE,256,256,DEDUPED,test

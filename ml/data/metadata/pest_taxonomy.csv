@@ -1,0 +1,17 @@
+pest_id,crop_id,pest_name,scientific_name,damage_type,verified_source
+PEST_COT_PBW,CROP_COTTON,Pink Bollworm,Pectinophora gossypiella,Larval internal boll feeding, rosetted flowers and stained lint with exit holes,ICAR-CICR Nagpur & PAU
+PEST_COT_WF,CROP_COTTON,Whitefly,Bemisia tabaci,Sucking sap from undersides of leaves, sooty mold on honeydew secretions, and vector of CLCuV,ICAR-CICR & CCS HAU
+PEST_COT_TH,CROP_COTTON,Thrips,Thrips tabaci,Upward curling of leaf margins with silvery/bronzed patches on lower surface,ICAR-CICR & JAU
+PEST_RIC_SB,CROP_RICE,Rice Yellow Stem Borer,Scirpophaga incertulas,Dead heart in vegetative stage and white earhead (empty chaffy panicle) at reproductive stage,ICAR-NRRI Cuttack & IGKV
+PEST_RIC_BPH,CROP_RICE,Brown Planthopper (BPH),Nilaparvata lugens,Hopper burn with circular patches of drying and yellowing tillers near waterline,ICAR-NRRI Cuttack & AAU
+PEST_SOY_SEM,CROP_SOYBEAN,Semilooper / Tobacco Caterpillar,Thysanoplusia orichalcea / Spodoptera litura,Extensive leaf defoliation, skeletonization of leaf lamina, and pod borer damage,ICAR-IISR Indore & JNKVV
+PEST_SOY_GF,CROP_SOYBEAN,Girdle Beetle,Oberiophora brevis,Girdling of petiole and main stem with twin rings causing wilting above the cut,ICAR-IISR Indore & RVSKVV
+PEST_MAI_FAW,CROP_MAIZE,Fall Armyworm,Spodoptera frugiperda,Large irregular ragged shot holes and window panes with heavy sawdust-like frass in leaf whorl,ICAR-IIMR & PAU Ludhiana
+PEST_CHP_PB,CROP_CHICKPEA,Gram Pod Borer,Helicoverpa armigera,Defoliation of leaflets and circular bored holes on green pods with half-body entering,ICAR-IIPR Kanpur & JNKVV
+PEST_MUS_APH,CROP_MUSTARD,Mustard Aphid,Lipaphis erysimi,Dense colonies sucking sap from inflorescence, tender twigs and pods causing curling and pod shriveling,ICAR-DRMR Bharatpur & CCS HAU
+PEST_TOM_LM,CROP_TOMATO,Tomato Leafminer,Tuta absoluta / Liriomyza trifolii,White serpentine or blotch transparent mines between epidermal leaf layers and fruit pinholes,ICAR-IIHR & PAU Ludhiana
+PEST_TOM_FRB,CROP_TOMATO,Fruit Borer,Helicoverpa armigera,Circular bore holes in green and ripening fruits with rotting and secondary pathogen entry,ICAR-IIHR Bengaluru & TNAU
+PEST_POT_PTM,CROP_POTATO,Potato Tuber Moth,Phthorimaea operculella,Mining within leaf parenchyma and deep frass-filled tunnels in stored and field tubers,ICAR-CPRI Shimla
+PEST_GNT_LM,CROP_GROUNDNUT,Groundnut Leafminer,Aproaerema modicella,Blotched leaves, webbed leaf clusters with small greenish larvae and burnt appearance,ICAR-DGR Junagadh & JAU
+PEST_GRP_FLB,CROP_GRAPES,Flea Beetle,Scelodonta strigicollis,Shot holes on leaves and severe chewing of sprouting tender vegetative buds,ICAR-NRC Grapes Pune & MPKV
+PEST_POM_FB,CROP_POMEGRANATE,Pomegranate Butterfly / Fruit Borer (Anar Butterfly),Virachola isocrates,Circular hole with offensive odor and protruding larval excreta on developing fruits,ICAR-NRCP Solapur & MPKV

@@ -1,0 +1,14 @@
+# AgriShield AI Baseline Model Configuration
+model:
+  name: "AgriShield-Baseline-RandomForest"
+  version: "v1.0.0-agrishield-baseline"
+  architecture: "random_forest_color_moments"
+  target_size: [128, 128]
+
+training:
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  seed: 42
+  n_estimators: 50
+  max_depth: 8

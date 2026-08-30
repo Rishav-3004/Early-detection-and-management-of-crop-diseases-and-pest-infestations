@@ -1,0 +1,73 @@
+crop_id,crop_name,scientific_name,state,importance_level,source
+CROP_COTTON,Cotton,Gossypium hirsutum,Maharashtra,PRIMARY,ICAR-CICR & Commissionerate of Agriculture MH
+CROP_SOYBEAN,Soybean,Glycine max,Maharashtra,PRIMARY,ICAR-IISR Indore & MH Dept of Agriculture
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Maharashtra,PRIMARY,ICAR-SBI & Vasantdada Sugar Institute
+CROP_RICE,Rice / Paddy,Oryza sativa,Maharashtra,PRIMARY,ICAR-NRRI & Maharashtra State Agriculture
+CROP_WHEAT,Wheat,Triticum aestivum,Maharashtra,SECONDARY,ICAR-IIWBR Karnal
+CROP_MAIZE,Maize,Zea mays,Maharashtra,SECONDARY,ICAR-IIMR Ludhiana
+CROP_CHICKPEA,Chickpea / Gram,Cicer arietinum,Maharashtra,PRIMARY,ICAR-IIPR Kanpur
+CROP_PIGEONPEA,Pigeonpea / Arhar / Tur,Cajanus cajan,Maharashtra,PRIMARY,ICAR-IIPR & MPKV Rahuri
+CROP_GROUNDNUT,Groundnut / Peanut,Arachis hypogaea,Maharashtra,SECONDARY,ICAR-DGR Junagadh
+CROP_ONION,Onion,Allium cepa,Maharashtra,PRIMARY,ICAR-DOGR Rajgurunagar
+CROP_TOMATO,Tomato,Solanum lycopersicum,Maharashtra,PRIMARY,ICAR-IIHR Bengaluru
+CROP_GRAPES,Grapes,Vitis vinifera,Maharashtra,PRIMARY,ICAR-NRC Grapes Pune
+CROP_BANANA,Banana,Musa acuminata,Maharashtra,PRIMARY,ICAR-NRCB Trichy & Jalgaon Agri
+CROP_POMEGRANATE,Pomegranate,Punica granatum,Maharashtra,PRIMARY,ICAR-NRCP Solapur
+CROP_MANGO,Mango,Mangifera indica,Maharashtra,PRIMARY,ICAR-CISH & Konkan Krishi Vidyapeeth
+CROP_CITRUS,Citrus / Orange,Citrus sinensis,Maharashtra,PRIMARY,ICAR-CCRI Nagpur
+CROP_COTTON,Cotton,Gossypium hirsutum,Gujarat,PRIMARY,ICAR-CICR & Gujarat State Agri Dept
+CROP_GROUNDNUT,Groundnut,Arachis hypogaea,Gujarat,PRIMARY,ICAR-DGR Junagadh & JAU Junagadh
+CROP_WHEAT,Wheat,Triticum aestivum,Gujarat,PRIMARY,ICAR-IIWBR & Anand Agricultural University
+CROP_RICE,Rice,Oryza sativa,Gujarat,PRIMARY,ICAR-NRRI & AAU Anand
+CROP_BAJRA,Pearl Millet / Bajra,Pennisetum glaucum,Gujarat,PRIMARY,ICAR-AICRP Pearl Millet & JAU
+CROP_MAIZE,Maize,Zea mays,Gujarat,SECONDARY,ICAR-IIMR & AAU
+CROP_CASTOR,Castor,Ricinus communis,Gujarat,PRIMARY,ICAR-IIOR Hyderabad & SDAU Sardarkrushinagar
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Gujarat,SECONDARY,ICAR-SBI & Navsari Agricultural University
+CROP_CHICKPEA,Chickpea,Cicer arietinum,Gujarat,PRIMARY,ICAR-IIPR & JAU
+CROP_PIGEONPEA,Pigeonpea,Cajanus cajan,Gujarat,PRIMARY,ICAR-IIPR & NAU
+CROP_CUMIN,Cumin / Jeera,Cuminum cyminum,Gujarat,PRIMARY,ICAR-NRCSS Ajmer & SDAU
+CROP_POTATO,Potato,Solanum tuberosum,Gujarat,PRIMARY,ICAR-CPRI Shimla & Deesa Potato Research
+CROP_TOMATO,Tomato,Solanum lycopersicum,Gujarat,PRIMARY,ICAR-IIHR & AAU
+CROP_BANANA,Banana,Musa acuminata,Gujarat,PRIMARY,ICAR-NRCB & NAU Navsari
+CROP_MANGO,Mango,Mangifera indica,Gujarat,PRIMARY,ICAR-CISH & JAU Gir
+CROP_WHEAT,Wheat,Triticum aestivum,Punjab,PRIMARY,ICAR-IIWBR & Punjab Agricultural University (PAU)
+CROP_RICE,Rice / Paddy,Oryza sativa,Punjab,PRIMARY,ICAR-NRRI & PAU Ludhiana
+CROP_MAIZE,Maize,Zea mays,Punjab,PRIMARY,ICAR-IIMR & PAU Ludhiana
+CROP_COTTON,Cotton,Gossypium hirsutum,Punjab,PRIMARY,ICAR-CICR & PAU Regional Station Bathinda
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Punjab,SECONDARY,ICAR-SBI & PAU
+CROP_POTATO,Potato,Solanum tuberosum,Punjab,PRIMARY,ICAR-CPRI Jalandhar & PAU
+CROP_TOMATO,Tomato,Solanum lycopersicum,Punjab,SECONDARY,ICAR-IIVR & PAU
+CROP_MUSTARD,Mustard / Rapeseed,Brassica juncea,Punjab,PRIMARY,ICAR-DRMR Bharatpur & PAU
+CROP_CHICKPEA,Chickpea,Cicer arietinum,Punjab,SECONDARY,ICAR-IIPR & PAU
+CROP_WHEAT,Wheat,Triticum aestivum,Haryana,PRIMARY,ICAR-IIWBR Karnal & CCS HAU Hisar
+CROP_RICE,Rice / Basmati,Oryza sativa,Haryana,PRIMARY,ICAR-NRRI & CCS HAU Hisar
+CROP_COTTON,Cotton,Gossypium hirsutum,Haryana,PRIMARY,ICAR-CICR Sirsa & CCS HAU
+CROP_MUSTARD,Mustard / Raya,Brassica juncea,Haryana,PRIMARY,ICAR-DRMR & CCS HAU Hisar
+CROP_BAJRA,Pearl Millet / Bajra,Pennisetum glaucum,Haryana,PRIMARY,ICAR-AICRP & CCS HAU
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Haryana,SECONDARY,ICAR-SBI & CCS HAU Regional Station Uchani
+CROP_MAIZE,Maize,Zea mays,Haryana,SECONDARY,ICAR-IIMR & CCS HAU
+CROP_POTATO,Potato,Solanum tuberosum,Haryana,SECONDARY,ICAR-CPRI & CCS HAU
+CROP_TOMATO,Tomato,Solanum lycopersicum,Haryana,SECONDARY,ICAR-IIHR & CCS HAU
+CROP_CHICKPEA,Chickpea,Cicer arietinum,Haryana,PRIMARY,ICAR-IIPR & CCS HAU
+CROP_SOYBEAN,Soybean,Glycine max,Madhya Pradesh,PRIMARY,ICAR-IISR Indore & RVSKVV Gwalior
+CROP_WHEAT,Wheat,Triticum aestivum,Madhya Pradesh,PRIMARY,ICAR-IIWBR & JNKVV Jabalpur
+CROP_CHICKPEA,Chickpea / Gram,Cicer arietinum,Madhya Pradesh,PRIMARY,ICAR-IIPR Sehore & JNKVV
+CROP_PIGEONPEA,Pigeonpea / Tur,Cajanus cajan,Madhya Pradesh,PRIMARY,ICAR-IIPR & JNKVV
+CROP_MAIZE,Maize,Zea mays,Madhya Pradesh,PRIMARY,ICAR-IIMR & JNKVV Chhindwara
+CROP_RICE,Rice / Paddy,Oryza sativa,Madhya Pradesh,PRIMARY,ICAR-NRRI & JNKVV Balaghat
+CROP_COTTON,Cotton,Gossypium hirsutum,Madhya Pradesh,PRIMARY,ICAR-CICR & RVSKVV Khandwa
+CROP_MUSTARD,Mustard,Brassica juncea,Madhya Pradesh,PRIMARY,ICAR-DRMR & RVSKVV Morena
+CROP_GROUNDNUT,Groundnut,Arachis hypogaea,Madhya Pradesh,SECONDARY,ICAR-DGR & JNKVV
+CROP_TOMATO,Tomato,Solanum lycopersicum,Madhya Pradesh,PRIMARY,ICAR-IIHR & JNKVV
+CROP_POTATO,Potato,Solanum tuberosum,Madhya Pradesh,PRIMARY,ICAR-CPRI & RVSKVV Malwa
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Madhya Pradesh,SECONDARY,ICAR-SBI & JNKVV Narsinghpur
+CROP_RICE,Rice / Paddy,Oryza sativa,Chhattisgarh,PRIMARY,ICAR-NRRI & Indira Gandhi Krishi Vishwavidyalaya (IGKV)
+CROP_MAIZE,Maize,Zea mays,Chhattisgarh,PRIMARY,ICAR-IIMR & IGKV Raipur
+CROP_WHEAT,Wheat,Triticum aestivum,Chhattisgarh,SECONDARY,ICAR-IIWBR & IGKV Raipur
+CROP_CHICKPEA,Chickpea / Chana,Cicer arietinum,Chhattisgarh,PRIMARY,ICAR-IIPR & IGKV Raipur
+CROP_PIGEONPEA,Pigeonpea / Rahar,Cajanus cajan,Chhattisgarh,PRIMARY,ICAR-IIPR & IGKV
+CROP_SOYBEAN,Soybean,Glycine max,Chhattisgarh,PRIMARY,ICAR-IISR & IGKV
+CROP_GROUNDNUT,Groundnut,Arachis hypogaea,Chhattisgarh,SECONDARY,ICAR-DGR & IGKV
+CROP_SUGARCANE,Sugarcane,Saccharum officinarum,Chhattisgarh,SECONDARY,ICAR-SBI & IGKV Kawardha
+CROP_TOMATO,Tomato,Solanum lycopersicum,Chhattisgarh,PRIMARY,ICAR-IIHR & IGKV Durg/Raipur
+CROP_POTATO,Potato,Solanum tuberosum,Chhattisgarh,SECONDARY,ICAR-CPRI & IGKV Mainpat

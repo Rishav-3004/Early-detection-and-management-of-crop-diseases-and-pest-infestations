@@ -15,7 +15,7 @@ class Settings(BaseSettings):
     API_V1_PREFIX: str = "/api/v1"
     ENVIRONMENT: str = "development"
     DEBUG: bool = True
-    DEMO_MODE: bool = True
+    DEMO_MODE: bool = False
 
     # Security & JWT
     SECRET_KEY: str = "supersecretdevelopmentjwtkeythatmustbechangedinproduction123456789"
@@ -41,11 +41,12 @@ class Settings(BaseSettings):
     ALLOWED_IMAGE_EXTENSIONS: List[str] = ["jpg", "jpeg", "png", "webp"]
 
     # AI/ML Configuration
-    MODEL_PROVIDER: str = "mock"
-    MODEL_VERSION: str = "v1.2.0-agrishield"
+    MODEL_PROVIDER: str = "production"
+    MODEL_VERSION: str = "v2.0.0-agrishield-prod"
     MODEL_PATH: str = ""
+    DEVICE: str = "auto"
     HIGH_CONFIDENCE_THRESHOLD: float = 0.80
-    MEDIUM_CONFIDENCE_THRESHOLD: float = 0.60
+    MEDIUM_CONFIDENCE_THRESHOLD: float = 0.58
 
     # Weather Integration
     WEATHER_PROVIDER: str = "open-meteo"

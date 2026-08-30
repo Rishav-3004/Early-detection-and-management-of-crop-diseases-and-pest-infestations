@@ -1,0 +1,369 @@
+{
+  "version": "2026.1-icar-tnau",
+  "last_updated": "2026-08-30",
+  "disclaimer": "Agricultural chemical applications must strictly adhere to product label directions, Central Insecticides Board & Registration Committee (CIBRC) approvals, and regional agricultural extension recommendations. Always consult a certified local agronomist before foliar chemical sprays.",
+  "entries": [
+    {
+      "disease_id": "DIS_TOM_EB",
+      "disease_name": "Tomato Early Blight",
+      "scientific_name": "Alternaria solani",
+      "crop_name": "Tomato",
+      "pathogen_type": "Fungal",
+      "symptoms": [
+        "Dark brown circular spots with concentric target-like rings on older lower leaves",
+        "Chlorotic yellow halo surrounding necrotic lesion borders",
+        "Premature defoliation starting from bottom canopy upwards",
+        "Dark sunken leathery stem and fruit collar rot near calyx"
+      ],
+      "causes": [
+        "Prolonged leaf wetness exceeding 8 hours",
+        "High relative humidity (>75%) coupled with moderate temperatures (24-29°C)",
+        "Overcrowded planting and poor bottom-canopy aeration"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Physically prune and destroy lower infected leaves showing concentric lesions to prevent upward spore splash",
+          "Switch immediately from overhead sprinkling to drip or furrow irrigation to keep foliage dry",
+          "Sanitize pruning shears between plants using a 10% sodium hypochlorite solution"
+        ],
+        "cultural_control": [
+          "Maintain optimal plant spacing (60 x 45 cm) and stake tomato vines to improve air circulation",
+          "Apply clean straw or plastic mulch around plant bases to create a physical barrier against soil-borne spores",
+          "Implement a 3-year crop rotation with non-solanaceous crops (e.g., legumes, cereals)"
+        ],
+        "mechanical_control": [
+          "Erect protective rain shelters or poly-tunnels during monsoon seasons to minimize direct foliar rain splash",
+          "Remove and deeply bury or burn all crop residues immediately after harvest"
+        ],
+        "biological_control": [
+          "Foliar spray of Trichoderma harzianum or Bacillus subtilis (10 g/L) during early vegetative growth",
+          "Apply 5% Neem Seed Kernel Extract (NSKE) as a natural anti-sporulant at 10-day intervals"
+        ],
+        "chemical_control": [
+          "Preventative: Mancozeb 75% WP @ 2.0-2.5 g/L or Chlorothalonil 75% WP @ 2.0 g/L at the first appearance of lower leaf spots",
+          "Curative (if severity high): Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1.0 ml/L or Tebuconazole 25.9% EC @ 1.0 ml/L. Observe strict 7-day Pre-Harvest Interval (PHI)."
+        ],
+        "prevention": [
+          "Procure certified disease-free seeds or treat seeds with Carbendazim 50% WP @ 2 g/kg seed before nursery sowing",
+          "Adopt resistant or tolerant tomato hybrids (e.g., Arka Rakshak, Arka Abhed)"
+        ],
+        "monitoring": [
+          "Inspect lower leaves twice weekly during humid or cloudy weather cycles",
+          "Deploy spore traps in commercial open-field blocks to monitor early airborne conidia load"
+        ],
+        "expert_escalation": "Escalate to extension officer if lesions rapidly progress past mid-canopy within 48 hours or fruit collar rot exceeds 15%."
+      },
+      "source_name": "ICAR-IIHR Bengaluru & TNAU Agritech Portal",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "disease_id": "DIS_TOM_LB",
+      "disease_name": "Tomato Late Blight",
+      "scientific_name": "Phytophthora infestans",
+      "crop_name": "Tomato",
+      "pathogen_type": "Oomycete",
+      "symptoms": [
+        "Water-soaked pale green irregular lesions turning rapidly dark brown and necrotic",
+        "Delicate white cottony/downy fungal sporulation visible on leaf undersides under high humidity",
+        "Rapid blighting of leaves, petioles, and green fruits with dark greasy firm rot"
+      ],
+      "causes": [
+        "Cool night temperatures (10-15°C) paired with warm humid days (18-22°C)",
+        "Extended periods of cloudiness, mist, and persistent leaf wetness (>90% RH)"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Roguing and deep burial of heavily blighted plants to curb rapid field epidemic spread",
+          "Cease all sprinkler and overhead watering immediately"
+        ],
+        "cultural_control": [
+          "Avoid planting adjacent to potato fields",
+          "Ensure wide ridge planting with excellent furrow drainage to eliminate standing puddles"
+        ],
+        "mechanical_control": [
+          "Destroy volunteer potato and solanaceous weed hosts (e.g., Solanum nigrum) along field borders"
+        ],
+        "biological_control": [
+          "Prophylactic foliar application of Pseudomonas fluorescens (10 g/L) before weather-driven blight outbreaks"
+        ],
+        "chemical_control": [
+          "Preventative: Copper Oxychloride 50% WP @ 2.5-3.0 g/L or Mancozeb 75% WP @ 2.5 g/L",
+          "Systemic Curative: Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L or Cymoxanil 8% + Mancozeb 64% WP @ 2.0 g/L. Rotate fungicide modes of action to prevent resistance."
+        ],
+        "prevention": [
+          "Plant resistant hybrids and ensure proper field site selection with maximum solar exposure"
+        ],
+        "monitoring": [
+          "Daily canopy scouting during foggy or continuous rainy spells"
+        ],
+        "expert_escalation": "Immediate escalation required if white downy sporulation appears on more than 5% of field plants."
+      },
+      "source_name": "ICAR-CPRI Shimla & IIHR Bengaluru",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "disease_id": "DIS_POT_EB",
+      "disease_name": "Potato Early Blight",
+      "scientific_name": "Alternaria solani",
+      "crop_name": "Potato",
+      "pathogen_type": "Fungal",
+      "symptoms": [
+        "Concentric target-board brown spots on older foliage",
+        "Yellowing and senescence of infected leaflets",
+        "Sunken dark circular corky dry rot lesions on harvested tubers"
+      ],
+      "causes": [
+        "Alternating wet and dry periods during tuber bulking stage",
+        "Nitrogen deficiency and plant stress"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Maintain uniform soil moisture; avoid severe moisture stress between irrigation cycles",
+          "Remove and destroy lower diseased foliage during field inter-culture"
+        ],
+        "cultural_control": [
+          "Balanced NPK fertilization; avoid premature nitrogen starvation during tuber expansion",
+          "3-year crop rotation with non-host cereal or pulse crops"
+        ],
+        "mechanical_control": [
+          "Ensure full tuber hill coverage (proper earthing-up) to prevent conidia reaching developing tubers"
+        ],
+        "biological_control": [
+          "Tuber treatment with Trichoderma viride @ 5 g/kg seed tuber prior to planting"
+        ],
+        "chemical_control": [
+          "Foliar spray of Propineb 70% WP @ 2.0 g/L or Mancozeb 75% WP @ 2.5 g/L at first symptom onset",
+          "Curative: Difenoconazole 25% EC @ 0.5-1.0 ml/L or Pyraclostrobin 20% WG @ 1.0 g/L"
+        ],
+        "prevention": [
+          "Use certified disease-free seed tubers from verified seed producers (e.g., CPRI Jalandhar/Shimla)"
+        ],
+        "monitoring": [
+          "Scout lower canopy at 5-day intervals following canopy closure"
+        ],
+        "expert_escalation": "Escalate if foliar blight leads to premature canopy collapse prior to 70 days after planting."
+      },
+      "source_name": "ICAR-CPRI Shimla & PAU Ludhiana",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "disease_id": "DIS_WHT_YR",
+      "disease_name": "Wheat Yellow / Stripe Rust",
+      "scientific_name": "Puccinia striiformis f. sp. tritici",
+      "crop_name": "Wheat",
+      "pathogen_type": "Fungal",
+      "symptoms": [
+        "Linear parallel stripes of bright yellow to orange-yellow powdery pustules (uredinia) along leaf blades",
+        "Yellow dust easily dislodged on fingers or clothing upon contact",
+        "Rapid leaf chlorosis and drying under cool windy weather leading to shriveled grains"
+      ],
+      "causes": [
+        "Cool temperatures (10-15°C) and high humidity / dew in North-Western Plains and sub-mountainous tracts (Punjab, Haryana, MP)",
+        "Susceptible varieties sown across large contiguous belts"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Identify and demarcate yellow rust focus patches in the field immediately",
+          "Initiate spot spray on focus patches and surrounding 5-meter buffer to prevent airborne epidemic"
+        ],
+        "cultural_control": [
+          "Timely sowing within recommended sowing window (first fortnight of November)",
+          "Avoid excessive vegetative nitrogen fertilization which fosters lush susceptible tissue"
+        ],
+        "mechanical_control": [
+          "Eradicate wild grass alternate/collateral hosts along water channels and field boundaries"
+        ],
+        "biological_control": [
+          "No commercial biocontrol agent replaces chemical intervention during active yellow rust outbreaks"
+        ],
+        "chemical_control": [
+          "Single foliar spray of Propiconazole 25% EC (Tilt) @ 1.0 ml/L (200 ml in 200 L water/acre) or Tebuconazole 25.9% EC @ 1.0 ml/L at first appearance of yellow stripes. Repeat in 15 days if cloudy cool weather persists."
+        ],
+        "prevention": [
+          "Sow certified rust-resistant wheat varieties (e.g., HD 3086, DBW 187, DBW 222, PBW 824, PBW 869)",
+          "Avoid growing banned or highly susceptible obsolete varieties (e.g., HD 2967 in stripe-rust prone zones)"
+        ],
+        "monitoring": [
+          "Scout fields weekly starting early January, focusing on low-lying shaded field corners"
+        ],
+        "expert_escalation": "Immediate mandatory reporting to district agricultural officer / Krishi Vigyan Kendra upon first verified stripe rust focus."
+      },
+      "source_name": "ICAR-IIWBR Karnal & PAU Ludhiana",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "disease_id": "DIS_RIC_BL",
+      "disease_name": "Rice Blast",
+      "scientific_name": "Magnaporthe oryzae (Pyricularia oryzae)",
+      "crop_name": "Rice / Paddy",
+      "pathogen_type": "Fungal",
+      "symptoms": [
+        "Spindle-shaped elliptical lesions with pointed ends, greyish-white centers and reddish-brown margins on leaves",
+        "Blackish necrotic lesions on panicle nodes and neck (Neck Blast) causing complete panicle breakage and chaffy grains"
+      ],
+      "causes": [
+        "Intermittent rains, cloudy weather, high relative humidity (>90%), and night temperatures of 20-24°C",
+        "Excessive basal or top-dressed nitrogen fertilizer"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Suspend top-dressing of nitrogen fertilizers immediately during active blast development",
+          "Drain excess standing water temporarily and maintain shallow saturated soil"
+        ],
+        "cultural_control": [
+          "Split application of nitrogen in 3-4 doses with adequate potassium top-dressing",
+          "Avoid dense seedling planting and ensure optimum hill spacing (20 x 15 cm)"
+        ],
+        "mechanical_control": [
+          "Destroy infected straw piles and stubbles after harvest to reduce overwintering perithecia"
+        ],
+        "biological_control": [
+          "Seed treatment and foliar spray of Pseudomonas fluorescens (Pf-1) @ 10 g/L or 2.5 kg/ha in 500 L water"
+        ],
+        "chemical_control": [
+          "Tricyclazole 75% WP @ 0.6 g/L (120 g/acre) or Isoprothiolane 40% EC @ 1.5 ml/L or Trifloxystrobin 25% + Tebuconazole 50% WG @ 0.4 g/L at early tillering and panicle emergence stage."
+        ],
+        "prevention": [
+          "Seed treatment with Tricyclazole 75% WP @ 2 g/kg seed or Carbendazim 50% WP @ 2 g/kg seed",
+          "Adopt blast-resistant rice cultivars suited for regional belts"
+        ],
+        "monitoring": [
+          "Regular inspection of nursery beds and tillering fields during cool foggy mornings"
+        ],
+        "expert_escalation": "Escalate immediately if neck blast symptoms appear during early grain filling (milking) stage."
+      },
+      "source_name": "ICAR-NRRI Cuttack & IGKV Raipur",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "disease_id": "DIS_COT_BB",
+      "disease_name": "Cotton Bacterial Blight / Angular Leaf Spot",
+      "scientific_name": "Xanthomonas citri pv. malvacearum",
+      "crop_name": "Cotton",
+      "pathogen_type": "Bacterial",
+      "symptoms": [
+        "Angular water-soaked spots bounded by leaf veinlets on underside of leaves turning brown to black",
+        "Black arm: Dark elongated cankers girdling stems and branches causing branch snapping",
+        "Dark oily water-soaked spots on young developing bolls leading to boll rot and stained lint"
+      ],
+      "causes": [
+        "Warm humid weather (28-34°C with >80% RH) with high wind-driven rains",
+        "Infected seed transmission and volunteer cotton ratoon plants"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Prune severely affected black-arm branches during dry afternoon hours and destroy",
+          "Avoid sprinkler irrigation which facilitates bacterial splash"
+        ],
+        "cultural_control": [
+          "Crop rotation with non-malvaceous crops (e.g., maize, sorghum, pulses)",
+          "Delinting of cotton seeds with concentrated sulfuric acid (100 ml/kg seed) to kill seed-coat bacteria"
+        ],
+        "mechanical_control": [
+          "Collect and burn all infected cotton stalks and post-harvest debris"
+        ],
+        "biological_control": [
+          "Seed treatment with Pseudomonas fluorescens @ 10 g/kg seed"
+        ],
+        "chemical_control": [
+          "Foliar spray with Copper Oxychloride 50% WP @ 2.5 g/L mixed with Streptocycline (Streptomycin sulphate + Tetracycline) @ 100 mg/L (1 g in 10 L water). Repeat after 15 days if rainy weather continues."
+        ],
+        "prevention": [
+          "Plant acid-delinted certified Bt and non-Bt cotton seeds",
+          "Select bacterial blight resistant or tolerant hybrids"
+        ],
+        "monitoring": [
+          "Inspect lower leaves of young plants 30-45 days after sowing following early monsoon showers"
+        ],
+        "expert_escalation": "Escalate if black arm stem girdling exceeds 10% of main stems across the field."
+      },
+      "source_name": "ICAR-CICR Nagpur & MPKV Rahuri",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "pest_id": "PEST_COT_PBW",
+      "pest_name": "Cotton Pink Bollworm",
+      "scientific_name": "Pectinophora gossypiella",
+      "crop_name": "Cotton",
+      "damage_type": "Internal boll feeding & seed burrowing",
+      "symptoms": [
+        "Rosetted flowers that fail to open properly due to larval petal webbing",
+        "Tiny entry holes in green bolls that heal and become invisible from outside",
+        "Burrowed seeds, stained unopenable locules (bad kapis), and premature boll dropping",
+        "Pink larvae (10-12 mm) feeding inside mature bolls with characteristic exit holes"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Handpick and destroy rosetted flowers and dropped green bolls from the field",
+          "Install pheromone traps immediately to identify adult moth peak emergence"
+        ],
+        "cultural_control": [
+          "Strict termination of cotton crop by December/January; avoid ratoon cotton cultivation",
+          "Deep summer ploughing to expose diapausing larvae and pupae in soil to predators and sun"
+        ],
+        "mechanical_control": [
+          "Install 8-10 Delta Pheromone Traps with Phero-lure per hectare for continuous monitoring (ETL: 8 moths/trap/night for 3 consecutive nights)",
+          "Deploy light traps during evening hours to capture nocturnal adult moths"
+        ],
+        "biological_control": [
+          "Release egg parasitoid Trichogramma bactrae @ 1.5 lakh/ha at weekly intervals starting at flower initiation (45-50 DAS)",
+          "Foliar spray of Beauveria bassiana (1 x 10^8 CFU/g) @ 5 g/L during evening hours"
+        ],
+        "chemical_control": [
+          "At ETL (10% green boll damage or 8 moths/trap/night): Spray Profenofos 50% EC @ 2.0 ml/L or Emamectin Benzoate 5% SG @ 0.4 g/L (80 g/acre) or Chlorantraniliprole 18.5% SC @ 0.3 ml/L (60 ml/acre). Alternate insecticide chemical groups."
+        ],
+        "prevention": [
+          "Observe non-Bt refuge planting requirements",
+          "Ensure timely regional sowing to escape late-season pink bollworm population peaks"
+        ],
+        "monitoring": [
+          "Destructive sampling of 20 green bolls per acre weekly between 60 to 120 days after sowing"
+        ],
+        "expert_escalation": "Escalate to agronomist if live pink larvae are found inside more than 10% of green bolls."
+      },
+      "source_name": "ICAR-CICR Nagpur & Commissionerate of Agriculture MH",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "pest_id": "PEST_MAI_FAW",
+      "pest_name": "Maize Fall Armyworm",
+      "scientific_name": "Spodoptera frugiperda",
+      "crop_name": "Maize",
+      "damage_type": "Whorl defoliation & cob boring",
+      "symptoms": [
+        "Elongated papery transparent patches (window panes) on leaves caused by young larvae",
+        "Large irregular ragged shot holes on expanding leaves with abundant sawdust-like coarse frass inside leaf whorl",
+        "Larva has inverted Y-shape mark on head capsule and four raised black dots arranged in a square on the 8th abdominal segment"
+      ],
+      "management": {
+        "immediate_actions": [
+          "Apply dry sand or wood ash mixed with lime (9:1) directly into affected leaf whorls to desiccate young larvae",
+          "Handpick and crush conspicuous egg masses covered with grey scales and early instar larval clusters"
+        ],
+        "cultural_control": [
+          "Intercropping maize with legumes (cowpea, pigeonpea, or soybean) to enhance natural predator biodiversity",
+          "Avoid staggered planting in adjacent plots; practice community-wide synchronized sowing"
+        ],
+        "mechanical_control": [
+          "Install FAW pheromone traps @ 10-12 traps/ha for monitoring and mass trapping"
+        ],
+        "biological_control": [
+          "Egg parasitoid Trichogramma pretiosum or Telenomus remus @ 50,000/acre at weekly intervals",
+          "Whorl application of Bacillus thuringiensis (Bt) kurstaki @ 2 g/L or Metarhizium anisopliae @ 5 g/L"
+        ],
+        "chemical_control": [
+          "Early Whorl Stage (ETL: 5-10% damaged plants): Chlorantraniliprole 18.5% SC @ 0.4 ml/L (80 ml/acre) directed straight into leaf whorls, or Spinetoram 11.7% SC @ 0.5 ml/L (100 ml/acre), or Emamectin Benzoate 5% SG @ 0.4 g/L (80 g/acre)."
+        ],
+        "prevention": [
+          "Seed treatment with Cyantraniliprole 19.8% + Thiamethoxam 19.8% FS @ 6 ml/kg seed protects young seedlings for first 20 days"
+        ],
+        "monitoring": [
+          "Scout 20 consecutive plants across 5 spots in a 'W' pattern from seedling emergence through tasseling"
+        ],
+        "expert_escalation": "Escalate if whorl damage exceeds 10% in vegetative maize or larvae begin burrowing directly into emerging cobs."
+      },
+      "source_name": "ICAR-IIMR Ludhiana & PAU Ludhiana",
+      "verification_status": "VERIFIED"
+    }
+  ]
+}

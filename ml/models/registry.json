@@ -1,0 +1,12 @@
+{
+  "production_model": {
+    "model_id": "agrishield_model_v2",
+    "version": "v2.0.0-agrishield-prod",
+    "task": "hierarchical_crop_disease_pest_detection",
+    "model_path": "C:\\Users\\risha\\.gemini\\antigravity\\scratch\\crop-disease-platform\\ml\\models\\production\\agrishield_model_v2.joblib",
+    "status": "PRODUCTION",
+    "calibrated_ece": 0.05614996797917421,
+    "classes_count": 24,
+    "supported_crops_count": 9
+  }
+}
